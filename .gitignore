@@ -8,7 +8,6 @@
 
 /jobs/*
 /plots/*
-/data/*
 /examples/*
 /unused/*
 /__pycache__/*
