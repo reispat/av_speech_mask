@@ -6,6 +6,7 @@
 *.nfs*
 *.fuse*
 
+/.ipynb_checkpoints/*
 /jobs/*
 /plots/*
 /examples/*
