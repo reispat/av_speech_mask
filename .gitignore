@@ -5,6 +5,7 @@
 *.png
 *.nfs*
 *.fuse*
+*.log*
 
 /.ipynb_checkpoints/*
 /jobs/*
